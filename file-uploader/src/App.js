@@ -12,3 +12,4 @@ function App() {
 }
 
 export default App;
+// Main App component that renders the FileUploader
